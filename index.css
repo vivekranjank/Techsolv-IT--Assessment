@@ -1,0 +1,1177 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.coinintention-all-rights {
+  position: absolute;
+  top: 99.51%;
+  left: 40.86%;
+  font-size: 12px;
+  font-family: var(--font-inter);
+}
+.footer-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+}
+.company,
+.footer-child,
+.logo-icon {
+  position: absolute;
+  top: 0;
+}
+.logo-icon {
+  height: 14.55%;
+  width: 23.65%;
+  right: 76.27%;
+  bottom: 85.45%;
+  left: 0.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.company {
+  left: 0;
+}
+.methodology {
+  position: absolute;
+  top: 195px;
+  left: 0;
+}
+.terms-of-use {
+  top: 39px;
+}
+.community-rules,
+.privacy-policy,
+.terms-of-use {
+  position: absolute;
+  left: 0;
+}
+.privacy-policy {
+  top: 78px;
+}
+.community-rules {
+  top: 117px;
+}
+.disclaimer,
+.methodology-parent {
+  position: absolute;
+  top: 156px;
+  left: 0;
+}
+.methodology-parent {
+  top: 56px;
+  width: 142px;
+  height: 219px;
+  font-size: var(--font-size-xs);
+}
+.company-parent {
+  position: relative;
+  width: 142px;
+  height: 275px;
+  flex-shrink: 0;
+}
+.requested-form-parent {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 133px;
+  height: 141px;
+  font-size: var(--font-size-xs);
+}
+.support-parent {
+  position: relative;
+  width: 133px;
+  height: 197px;
+  flex-shrink: 0;
+}
+.facebook-parent {
+  position: absolute;
+  top: 56px;
+  left: 0;
+  width: 84px;
+  height: 180px;
+  font-size: var(--font-size-xs);
+}
+.socials-parent {
+  position: relative;
+  width: 85px;
+  height: 236px;
+  flex-shrink: 0;
+}
+.group-parent {
+  position: absolute;
+  height: 100%;
+  width: 57.79%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 42.21%;
+  background-color: var(--color-gray-400);
+  display: flex;
+  flex-direction: row;
+  padding: 0 80px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 120px;
+}
+.coinintentions-mission-is {
+  position: absolute;
+  width: 45.78%;
+  top: 21.82%;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: inline-block;
+}
+.footer,
+.logo-parent {
+  position: absolute;
+}
+.logo-parent {
+  height: 66.27%;
+  width: 91.32%;
+  top: 16.87%;
+  right: 1.53%;
+  bottom: 16.87%;
+  left: 7.15%;
+}
+.footer {
+  height: 13.47%;
+  width: 99.72%;
+  top: 85.49%;
+  right: 0;
+  bottom: 1.04%;
+  left: 0.28%;
+}
+.reason-to-invest {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.high-return-potential {
+  position: absolute;
+  top: 0;
+}
+.reason-to-invest-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+}
+.high-return-potential {
+  left: 8.38%;
+  font-weight: 500;
+}
+.class-aptent-taciti {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 32.71%;
+  left: 8.38%;
+  font-size: var(--font-size-xs);
+}
+.vector-icon {
+  position: absolute;
+  height: 28.04%;
+  width: 5.59%;
+  top: 0;
+  right: 94.41%;
+  bottom: 71.96%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.high-return-potential-parent {
+  position: absolute;
+  height: 28.08%;
+  width: 100%;
+  top: 35.96%;
+  right: 0;
+  bottom: 35.96%;
+  left: 0;
+}
+.buying-bitcoin-in {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 32.71%;
+  left: 0;
+  font-size: var(--font-size-xs);
+}
+.buying-bitcoin-in-legal-parent {
+  position: absolute;
+  height: 100%;
+  width: 91.62%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 8.38%;
+}
+.group-container {
+  position: absolute;
+  left: 0;
+}
+.group-div,
+.growing-alternative-assest-cla-parent {
+  position: absolute;
+  height: 28.08%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 71.92%;
+  left: 0;
+}
+.growing-alternative-assest-cla-parent {
+  top: 71.92%;
+  bottom: 0;
+}
+.group-container {
+  height: 66.61%;
+  width: 43.27%;
+  top: 31.12%;
+  right: 56.73%;
+  bottom: 2.27%;
+  font-size: var(--font-size-base);
+}
+.reasons-child {
+  position: absolute;
+  height: 58.95%;
+  width: 48.56%;
+  top: 25.67%;
+  right: -0.06%;
+  bottom: 15.38%;
+  left: 51.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.glass {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  background: linear-gradient(
+    180.04deg,
+    rgba(4, 19, 52, 0.78),
+    rgba(15, 37, 84, 0.62) 99.48%
+  );
+  backdrop-filter: blur(2px);
+  border: 2px solid #142346;
+  box-sizing: border-box;
+}
+.up-213 {
+  color: var(--color-lime-100);
+}
+.btc {
+  position: absolute;
+  left: 0;
+}
+.your-portfolio-is-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btc {
+  top: 52.94%;
+  font-size: var(--font-size-xs);
+}
+.bitcoin-parent {
+  position: absolute;
+  height: 85%;
+  width: 21.55%;
+  top: 8.33%;
+  right: 50.18%;
+  bottom: 6.67%;
+  left: 28.27%;
+}
+.bitcoin-logo-6219385-960-720-icon {
+  position: absolute;
+  height: 100%;
+  width: 21.2%;
+  top: 0;
+  right: 78.8%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div {
+  position: absolute;
+  top: 28.33%;
+  left: 77.03%;
+  color: var(--color-lime-100);
+}
+.vector-icon3 {
+  position: absolute;
+  height: 33.33%;
+  width: 5.3%;
+  top: 33.33%;
+  right: 0;
+  bottom: 33.33%;
+  left: 94.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent2 {
+  position: absolute;
+  height: 15.79%;
+  width: 99.65%;
+  top: 0;
+  right: 0.35%;
+  bottom: 84.21%;
+  left: 0;
+}
+.vector-icon4 {
+  height: 33.33%;
+  width: 5.3%;
+  top: 35%;
+  right: 0;
+  bottom: 31.67%;
+  left: 94.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ethereum-parent,
+.vector-icon4,
+.vector-parent {
+  position: absolute;
+}
+.vector-parent {
+  height: 15.79%;
+  width: 99.65%;
+  top: 63.16%;
+  right: 0.35%;
+  bottom: 21.05%;
+  left: 0;
+}
+.ethereum-parent {
+  height: 85%;
+  width: 30.74%;
+  top: 8.33%;
+  right: 40.99%;
+  bottom: 6.67%;
+  left: 28.27%;
+}
+.eth-diamond-black-white-icon {
+  position: absolute;
+  height: 100%;
+  width: 21.2%;
+  top: 0;
+  right: 78.8%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vector-container,
+.vector-group {
+  height: 15.79%;
+  width: 99.65%;
+  right: 0.35%;
+  left: 0;
+}
+.vector-container {
+  position: absolute;
+}
+.vector-group {
+  top: 21.05%;
+  bottom: 63.16%;
+}
+.vector-group,
+.vector-icon7 {
+  position: absolute;
+}
+.vector-container {
+  top: 84.21%;
+  bottom: 0;
+}
+.vector-icon7 {
+  height: 33.33%;
+  width: 5.28%;
+  top: 35%;
+  right: 0;
+  bottom: 31.67%;
+  left: 94.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.litecoin-parent {
+  position: absolute;
+  height: 85%;
+  width: 24.3%;
+  top: 8.33%;
+  right: 47.54%;
+  bottom: 6.67%;
+  left: 28.17%;
+}
+.litecoin-blockchain-cryptocurr-icon {
+  position: absolute;
+  height: 100%;
+  width: 21.13%;
+  top: 0;
+  right: 78.87%;
+  bottom: 0;
+  left: 0;
+  border-radius: 1000px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div4 {
+  top: 28.33%;
+  left: 76.76%;
+  color: var(--color-lime-100);
+}
+.div4,
+.group-parent1,
+.vector-parent1 {
+  position: absolute;
+}
+.vector-parent1 {
+  height: 15.79%;
+  width: 100%;
+  top: 42.11%;
+  right: 0;
+  bottom: 42.11%;
+  left: 0;
+}
+.group-parent1 {
+  height: 85.59%;
+  width: 98.61%;
+  top: 14.41%;
+  right: 0.69%;
+  bottom: 0;
+  left: 0.69%;
+  font-size: var(--font-size-sm);
+}
+.glass-parent {
+  position: absolute;
+}
+.your-portfolio-is-up-213-parent {
+  position: absolute;
+  height: 83.46%;
+  width: 78.9%;
+  top: 8.27%;
+  right: 10.41%;
+  bottom: 8.27%;
+  left: 10.68%;
+}
+.glass-parent {
+  height: 93.01%;
+  width: 29.41%;
+  top: 6.99%;
+  right: 8.62%;
+  bottom: 0;
+  left: 61.97%;
+  box-shadow: 0 1px 80px rgba(255, 255, 255, 0.05);
+  font-size: var(--font-size-lg);
+}
+.reasons {
+  position: absolute;
+  height: 18.57%;
+  width: 85.94%;
+  top: 64.33%;
+  right: 6.86%;
+  bottom: 17.1%;
+  left: 7.2%;
+  font-size: var(--font-size-xl);
+}
+.map-inner,
+.map-item,
+.worl-map-icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.worl-map-icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.map-item {
+  height: 52.6%;
+  width: 38.13%;
+  top: 13.14%;
+  right: 33.56%;
+  bottom: 34.26%;
+  left: 28.31%;
+}
+.map-inner {
+  height: 51.61%;
+  width: 32.88%;
+  top: 18.91%;
+  right: 42.54%;
+  bottom: 29.48%;
+  left: 24.58%;
+}
+.group-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gray-300);
+}
+.group-icon {
+  position: absolute;
+  height: 45%;
+  width: 18.75%;
+  top: 28.33%;
+  right: 81.94%;
+  bottom: 26.67%;
+  left: -0.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.million-trades {
+  position: absolute;
+  top: 0;
+  left: 24.31%;
+  font-weight: 600;
+}
+.group-group {
+  position: absolute;
+  height: 88.24%;
+  width: 88.34%;
+  top: 5.88%;
+  right: 6.13%;
+  bottom: 5.88%;
+  left: 5.52%;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 12.43%;
+  width: 21.32%;
+  top: 37.48%;
+  right: 27.66%;
+  bottom: 50.09%;
+  left: 51.01%;
+  box-shadow: 0 1px 80px rgba(255, 255, 255, 0.1);
+}
+.vector-icon8 {
+  position: absolute;
+  height: 41.67%;
+  width: 18.52%;
+  top: 30%;
+  right: 81.48%;
+  bottom: 28.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.countries {
+  top: 0;
+  left: 25.93%;
+  font-weight: 600;
+}
+.countries,
+.rectangle-group,
+.vector-parent2 {
+  position: absolute;
+}
+.vector-parent2 {
+  height: 88.24%;
+  width: 84.38%;
+  top: 5.88%;
+  right: 8.13%;
+  bottom: 5.88%;
+  left: 7.5%;
+}
+.rectangle-group {
+  height: 12.43%;
+  width: 20.93%;
+  top: 10.24%;
+  right: 48.33%;
+  bottom: 77.33%;
+  left: 30.74%;
+  box-shadow: 0 1px 80px rgba(255, 255, 255, 0.1);
+}
+.vector-icon9 {
+  position: absolute;
+  height: 41.67%;
+  width: 14.41%;
+  top: 30%;
+  right: 85.59%;
+  bottom: 28.33%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.trading-pairs {
+  position: absolute;
+  top: 0;
+  left: 20.31%;
+  font-weight: 600;
+}
+.vector-parent3 {
+  position: absolute;
+  height: 88.24%;
+  width: 90.59%;
+  top: 5.88%;
+  right: 4.59%;
+  bottom: 5.88%;
+  left: 4.81%;
+}
+.rectangle-container {
+  position: absolute;
+  height: 12.43%;
+  width: 24.46%;
+  top: 56.67%;
+  right: 56.57%;
+  bottom: 30.9%;
+  left: 18.97%;
+  box-shadow: 0 1px 80px rgba(255, 255, 255, 0.1);
+}
+.png-transparent-ethereum-eth-h-icon,
+.px-bitcoin-icon,
+.shiba-inu-coin-logo-icon {
+  position: absolute;
+  height: 7.31%;
+  width: 5.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shiba-inu-coin-logo-icon {
+  top: 26.69%;
+  right: 68.61%;
+  bottom: 66%;
+  left: 26.16%;
+}
+.png-transparent-ethereum-eth-h-icon {
+  top: 25.59%;
+  right: 37.47%;
+  bottom: 67.09%;
+  left: 57.29%;
+}
+.px-bitcoin-icon {
+  top: 60.69%;
+  right: 46.76%;
+  bottom: 31.99%;
+  left: 48.01%;
+}
+.map1,
+.we-are-the-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.map1 {
+  height: 100%;
+  width: 61.65%;
+  right: 38.35%;
+  bottom: 0;
+}
+.we-are-the-container {
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.lorem-ipsum-dolor-container3 {
+  position: absolute;
+  top: 24.63%;
+  left: 0;
+}
+.lorem-ipsum-dolor4 {
+  top: 50%;
+}
+.lorem-ipsum-dolor4,
+.lorem-ipsum-dolor5,
+.lorem-ipsum-dolor6 {
+  position: absolute;
+  width: 78.56%;
+  left: 21.44%;
+  display: inline-block;
+}
+.lorem-ipsum-dolor5 {
+  top: 70.37%;
+}
+.lorem-ipsum-dolor6 {
+  top: 90.74%;
+}
+.clarity {
+  top: 44.44%;
+}
+.clarity,
+.community,
+.confidence {
+  position: absolute;
+  left: 21.44%;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.confidence {
+  top: 64.81%;
+}
+.community {
+  top: 85.19%;
+}
+.rectangle-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+}
+.vector-icon10 {
+  position: absolute;
+  height: 37.5%;
+  width: 31.25%;
+  top: 31.25%;
+  right: 33.75%;
+  bottom: 31.25%;
+  left: 35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent1,
+.vector-icon11 {
+  position: absolute;
+  height: 14.81%;
+  width: 16.03%;
+  top: 64.81%;
+  right: 83.97%;
+  bottom: 20.37%;
+  left: 0;
+}
+.vector-icon11 {
+  height: 25%;
+  width: 37.5%;
+  top: 37.5%;
+  right: 31.25%;
+  bottom: 37.5%;
+  left: 31.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent2,
+.vector-icon12 {
+  position: absolute;
+  height: 14.81%;
+  width: 16.03%;
+  top: 44.44%;
+  right: 83.97%;
+  bottom: 40.74%;
+  left: 0;
+}
+.vector-icon12 {
+  height: 31.25%;
+  width: 31.25%;
+  top: 35%;
+  right: 33.75%;
+  bottom: 33.75%;
+  left: 35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent3 {
+  position: absolute;
+  height: 14.81%;
+  width: 16.03%;
+  top: 85.19%;
+  right: 83.97%;
+  bottom: 0;
+  left: 0;
+}
+.we-are-the-most-trusted-crypto-parent {
+  position: absolute;
+  height: 98.72%;
+  width: 40.24%;
+  top: 0;
+  right: 0;
+  bottom: 1.28%;
+  left: 59.76%;
+  font-size: var(--font-size-xs);
+}
+.map-parent {
+  position: absolute;
+  height: 84.02%;
+  width: 86.11%;
+  top: 7.99%;
+  right: 6.94%;
+  bottom: 7.99%;
+  left: 6.94%;
+}
+.btn-child,
+.map {
+  position: absolute;
+  right: 0;
+}
+.map {
+  height: 21.13%;
+  width: 99.72%;
+  top: 40.6%;
+  bottom: 38.27%;
+  left: 0.28%;
+  font-size: var(--font-size-base);
+}
+.btn-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #3dd8ee, #0997e8);
+}
+.view-all {
+  top: 20%;
+  left: 25.5%;
+}
+.btn,
+.price,
+.view-all {
+  position: absolute;
+}
+.btn {
+  height: 1.95%;
+  width: 13.85%;
+  top: 36.06%;
+  right: 42.94%;
+  bottom: 61.99%;
+  left: 43.21%;
+}
+.price {
+  top: 0;
+  left: 391px;
+}
+.chart {
+  position: absolute;
+  top: 0;
+}
+.h-change {
+  left: 593px;
+}
+.h-change,
+.marketcap {
+  position: absolute;
+  top: 0;
+}
+.chart {
+  left: 848px;
+}
+.marketcap {
+  left: 1066px;
+}
+.name-parent {
+  position: relative;
+  width: 1179px;
+  height: 30px;
+  flex-shrink: 0;
+}
+.px-bitcoin-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.btc2 {
+  position: absolute;
+  top: 8px;
+  left: 154px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.div5,
+.div6 {
+  position: absolute;
+  top: 5px;
+  left: 368px;
+  font-weight: 600;
+}
+.div6 {
+  left: 624px;
+  color: var(--color-lime-200);
+}
+.group-child3 {
+  position: absolute;
+  top: 7.53px;
+  left: 846.13px;
+  width: 59.84px;
+  height: 23.96px;
+}
+.div7 {
+  position: absolute;
+  top: 5px;
+  left: 1035px;
+  font-weight: 600;
+}
+.px-bitcoin-parent {
+  position: relative;
+  width: 1205px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.eth2,
+.ethereum2 {
+  position: absolute;
+}
+.ethereum2 {
+  top: 5px;
+  left: 65px;
+}
+.eth2 {
+  top: 8px;
+  left: 181px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.div8,
+.div9 {
+  position: absolute;
+  top: 5px;
+  left: 370px;
+  font-weight: 600;
+}
+.div9 {
+  left: 624px;
+  color: var(--color-red);
+}
+.group-child4 {
+  position: absolute;
+  top: 7.53px;
+  left: 848.13px;
+  width: 59.84px;
+  height: 23.96px;
+}
+.div10 {
+  position: absolute;
+  top: 5px;
+  left: 1037px;
+  font-weight: 600;
+}
+.ethereum-container {
+  position: relative;
+  width: 1207px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.shibu,
+.shibuinu {
+  position: absolute;
+}
+.shibuinu {
+  top: 5px;
+  left: 63px;
+}
+.shibu {
+  top: 8px;
+  left: 170px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-100);
+}
+.shiba-inu-coin-logo-parent {
+  position: relative;
+  width: 1192px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.crypto-chart {
+  position: absolute;
+  height: 24.34%;
+  width: 83.59%;
+  top: 10.42%;
+  right: 8.03%;
+  bottom: 65.24%;
+  left: 8.38%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: var(--font-size-base);
+}
+.todays-cryptocurrency-prices-container {
+  position: absolute;
+  height: 34.21%;
+  width: 57.91%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 56.67%;
+  width: 1.69%;
+  top: 23.33%;
+  right: 37.76%;
+  bottom: 20%;
+  left: 60.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.the-global-cryptocurrency {
+  font-weight: 500;
+}
+.b {
+  color: var(--color-lime-200);
+}
+.b1 {
+  color: var(--color-red);
+}
+.vector-parent4 {
+  height: 39.47%;
+  width: 100%;
+  top: 60.53%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+}
+.header-child,
+.vector-parent4 {
+  position: absolute;
+}
+.todays-cryptocurrency-prices-parent {
+  position: absolute;
+  height: 2.47%;
+  width: 65.65%;
+  top: 5.84%;
+  right: 27.15%;
+  bottom: 91.69%;
+  left: 7.2%;
+}
+.header-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(100px);
+}
+.logo-icon1 {
+  position: relative;
+  width: 285px;
+  height: 33.63px;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.community1 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.cryptocurrencies {
+  left: 0;
+}
+.cryptocurrencies,
+.exchanges,
+.trades1 {
+  position: absolute;
+  top: 0;
+  font-weight: 500;
+}
+.exchanges {
+  left: 171px;
+}
+.community1 {
+  left: 293px;
+}
+.trades1 {
+  left: 424px;
+}
+.nav-menu,
+.vector-icon14 {
+  position: relative;
+  width: 476px;
+  height: 23px;
+  flex-shrink: 0;
+}
+.vector-icon14 {
+  width: 24px;
+  height: 24px;
+}
+.logo-group {
+  position: absolute;
+  height: 73.63%;
+  width: 87.85%;
+  top: 13%;
+  right: 6.04%;
+  bottom: 13.37%;
+  left: 6.11%;
+  display: flex;
+  flex-direction: row;
+  padding: 20px 40px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 200px;
+}
+.component-1,
+.header {
+  position: absolute;
+  top: 0;
+}
+.header {
+  height: 3.25%;
+  width: 99.72%;
+  right: 0.28%;
+  bottom: 96.75%;
+  left: 0;
+  font-size: var(--font-size-2xs);
+}
+.component-1 {
+  left: -4px;
+  width: 1444px;
+  height: 3081px;
+}
+.dark-mode {
+  position: relative;
+  background-color: #041334;
+  width: 100%;
+  height: 3098px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
